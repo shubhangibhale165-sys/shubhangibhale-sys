@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi 👋, I'm Shubhangi Bhale<br><br>🎓 I'm currently pursuing B.Tech in Electronics and Telecommunication Engineering.<br>💡 I have a strong interest in both hardware and software development.<br>💻 Skilled in both hardware and software domains.<br>🌐 Completed IoT Workshops and gained practical exposure to smart systems.<br>🔍 Interested in Embedded Systems, IoT, and Real-World Problem Solving.<br>🌱 Continuously learning and improving my technical skills.<br><br>🛠️ Technical Skills<br>💻 Programming Languages<br>C<br>C++<br>Python<br><br>🔌 Hardware & IoT<br>Microcontrollers (Arduino, ESP8266)<br>Basic Circuit Design<br>Sensors & Actuators Integration<br><br>💼 Virtual Internship – Infosys Springboard<br><br>
+Hi 👋, I'm Shubhangi Bhale<br><br>🎓 I'm currently pursuing B.Tech in Electronics and Telecommunication Engineering.<br>💡 I have a strong interest in both hardware and software development.<br>💻 Skilled in both hardware and software domains.<br>🌐 Completed IoT Workshops and gained practical exposure to smart systems.<br>🔍 Interested in Embedded Systems, IoT, and Real-World Problem Solving.<br>🌱 Continuously learning and improving my technical skills.<br><br>
+
+🚀 About Me<br><br>
+I am currently pursuing a B.Tech degree in Electronics and Telecommunication Engineering, with a strong interest in IoT, embedded systems, and automation technologies. I enjoy working with both hardware and software, and have experience with programming languages such as C, C++, and Python.
+
+I actively participate in technical workshops and IoT programs to enhance my practical knowledge. I am a continuous learner who enjoys experimenting with microcontrollers and building real-world projects while improving my problem-solving and technical skills.
+
+🛠️ Technical Skills<br>💻 Programming Languages<br>C<br>C++<br>Python<br><br>🔌 Hardware & IoT<br>Microcontrollers (Arduino, ESP8266)<br>Basic Circuit Design<br>Sensors & Actuators Integration<br><br>💼 Virtual Internship – Infosys Springboard<br><br>
 
 
 ## 🌐 Socials:
